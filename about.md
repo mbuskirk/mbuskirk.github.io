@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am a second year Chemistry student at California Polytechnic State University.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I'm currently working on a computational project under [Dr. Ashley McDonald](https://chemistry.calpoly.edu/content/faculty/ashley_mcdonald) to find the transition state of a strained unimolecular organic reaction.
+
+I don't have a lot of hobbies. I suppose I spend a lot of my time exploring some classical music and otherwise wasting time on YouTube.
 
 ### Contact me
 
-[armcdona@calpoly.edu](mailto:armcdona@calpoly.edu)
+[mbuskirk@calpoly.edu](mailto:mbuskirk@calpoly.edu)
