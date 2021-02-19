@@ -11,7 +11,7 @@ description: 2nd Year Chemistry student at California Polytechnic State Universi
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 # To use the Cal Poly Learn by Doing logo put https://raw.githubusercontent.com/[username]/[website_name]/master/images/CP_LBD.jpg
 # But fill in your actual username and website name
-avatar: 
+avatar: https://raw.githubusercontent.com/mbuskirk/mbuskirk.github.io/master/images/CP_LBD.jpg
 
 #
 # Flags below are optional
@@ -23,7 +23,7 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: 
+  github:mbuskirk
   instagram:
   linkedin:
   pinterest:
