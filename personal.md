@@ -1,6 +1,6 @@
 ---
 layout: page
 title: Personal Stuff
-permalink: /personal/
+permalink: /people/
 ---
 To be updated
